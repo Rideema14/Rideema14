@@ -1,10 +1,11 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,css,html,bootstrap,javascript,nodejs,react,postgresql,express,python,java,mongodb,firebase,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=tailwind,css,html,bootstrap,javascript,nodejs,react,postgresql,prisma,express,python,java,firebase,git,github,vercel,netlify,neon,render" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
   <img src="https://img.shields.io/badge/Lucide%20React-F56565?style=for-the-badge" />
